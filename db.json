@@ -1,0 +1,15 @@
+{
+  "claims": [
+    { "claimID": 1, "insurerID": "A00001", "claimType": "H", "lossCause": 10, "lossDate": "2019-01-05" },
+    { "claimID": 2, "insurerID": "A00001", "claimType": "M", "lossCause": 20, "lossDate": "2019-01-08" },
+    { "claimID": 3, "insurerID": "A00001", "claimType": "PI", "lossCause": 30, "lossDate": "2019-01-10" }
+  ],
+  "subjects": [
+    { "subjectID": 1, "firstName": "Joe", "lastName": "Bloggs" },
+    { "subjectID": 2, "firstName": "John", "lastName": "Smith" }
+  ],
+  "insurers": [
+    { "insurerID": "A00001", "insurerName": "Hastings" },
+    { "insurerID": "A00002", "insurerName": "Ageas" }
+  ]
+}
